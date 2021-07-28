@@ -24,7 +24,7 @@ Template code is provided in the `dlnd_tv_script_generation.ipynb` file.
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `Landmark-Classification-Tagging-for-Social-Media/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Generate-TV-Scripts/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook dlnd_tv_script_generation.ipynb
